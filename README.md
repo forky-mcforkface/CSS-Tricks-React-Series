@@ -1,3 +1,11 @@
+# ** WARNING ***
+
+If you're looking at the articles I wrote for this series and subsequently this code, they are pretty old at this point.
+
+- React Router is currently on v5 and is going to be v6 soon (at the time I wrote this note in Oct 2019). I wrote a more updated article on v4 after this series at CSS-Tricks back in 2017: https://css-tricks.com/react-router-4/. FYI, v4 and v5 are practically the same API ([see why](https://reacttraining.com/blog/react-router-v5/)) so reading v4 is still pretty good if you're on v5
+- Reading on Container Components (Smart vs Dumb Components) might give you some good ideas but in general that pattern isn't very popular these days.
+- The Redux article is still pretty good and relevant. 
+
 # CSS-Tricks: Leveling Up With React, A Three-Part Series
 
 This repo is for a [CSS-Tricks series on React](https://css-tricks.com/learning-react-router/). The documentation in this repo will show you many things that weren't shown in the series, such as
