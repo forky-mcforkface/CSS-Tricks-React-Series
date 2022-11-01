@@ -25,8 +25,8 @@
     "babel-preset-stage-2": "^6.5.0",
     "del": "^2.2.0",
     "es6-promise": "^4.0.5",
-    "gulp": "^3.9.1",
-    "gulp-nodemon": "^2.0.6",
+    "gulp": "^4.0.2",
+    "gulp-nodemon": "^2.5.0",
     "gulp-rename": "^1.2.2",
     "webpack": "^1.12.14",
     "webpack-stream": "^3.1.0"
